@@ -1,0 +1,15 @@
+{
+    "blogs": [{
+            "title": "my first blog",
+            "body": "Why do we use it?\n i am learning this",
+            "author": "mario",
+            "id": 1
+        },
+        {
+            "title": "Opening party",
+            "body": "Why do we use it?\n i am learning this",
+            "author": "yoshi",
+            "id": 2
+        }
+    ]
+}
